@@ -1,3 +1,9 @@
 const sayHiToGrandma(string) {
-  if(string!==uppercase.toUpperCase()||string!==lowercase.)
-}
+
+  let stringTest=string.toLowerCase();
+  if(stringTest==="i love you, grandma") {
+    return string;
+  } else {
+    return string.toUpperCase();
+  }
+} 
