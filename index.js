@@ -1,4 +1,4 @@
-const sayHiToGrandma(string) {
+const sayHiToGrandma = (string) => {
 
   let stringTest=string.toLowerCase();
   if(stringTest==="i love you, grandma") {
