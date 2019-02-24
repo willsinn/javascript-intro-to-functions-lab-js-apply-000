@@ -1,1 +1,3 @@
-const sayHiToGrandma()
+const sayHiToGrandma(string) {
+  
+}
